@@ -7,6 +7,25 @@ Home
 <div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img src="https://ericzhu0.files.wordpress.com/2019/08/14713734_1182579971811800_8424933975815265179_n-7.jpg" alt="" class="wp-image-23" width="248" height="248" /></figure></div>
 <!-- /wp:image -->
 
+<!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:group -->
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:html -->
 <div class="wp-block-file"><a href="https://ericzhu0.files.wordpress.com/2019/08/eric-zhu-resume.pdf">eric-zhu-resume</a> </div>
+<!-- /wp:html -->
+
+<!-- wp:html -->
 <div class="wp-block-file"><a href="https://ericzhu0.files.wordpress.com/2019/08/eric-zhu-official-transcript.pdf">eric-zhu-official-transcript</a>
 </div>
+<!-- /wp:html -->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:group -->
+
+<!-- wp:file /-->
+
+<!-- wp:paragraph -->
+<p></p>
+<!-- /wp:paragraph --> 
